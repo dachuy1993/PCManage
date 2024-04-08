@@ -1,0 +1,200 @@
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\bin\Debug\Login.exe.config
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\bin\Debug\Login.exe
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\bin\Debug\Login.pdb
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\UploadVersion.g.cs
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\UploadVersion.baml
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.g.resources
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.exe
+D:\Program Sync\17.ComputerManager\6.Login_4.5\Login\Login\obj\Debug\Login.pdb
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\bin\Debug\Login.exe.config
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\bin\Debug\Login.exe
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\bin\Debug\Login.pdb
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\UploadVersion.g.cs
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\UploadVersion.baml
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.g.resources
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.exe
+D:\Program Taixin\3.PcManage\1.Login\Login\Login\obj\Debug\Login.pdb
+D:\Program Taixin\6.LiveSystem\Login\Login\bin\Debug\Login.exe.config
+D:\Program Taixin\6.LiveSystem\Login\Login\bin\Debug\Login.exe
+D:\Program Taixin\6.LiveSystem\Login\Login\bin\Debug\Login.pdb
+D:\Program Taixin\6.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\6.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\UploadVersion.g.cs
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\App.g.cs
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\MainWindow.baml
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\UploadVersion.baml
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.g.resources
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.exe
+D:\Program Taixin\6.LiveSystem\Login\Login\obj\Debug\Login.pdb
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\UploadVersion.g.cs
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\App.g.cs
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.exe
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.pdb
+D:\Program Taixin\6.LiveSystem\Login2\Login\bin\Debug\Login.exe.config
+D:\Program Taixin\6.LiveSystem\Login2\Login\bin\Debug\Login.exe
+D:\Program Taixin\6.LiveSystem\Login2\Login\bin\Debug\Login.pdb
+D:\Program Taixin\6.LiveSystem\Login2\Login\bin\Debug\MySql.Data.dll
+D:\Program Taixin\6.LiveSystem\Login2\Login\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\6.LiveSystem\Login2\Login\bin\Debug\MySql.Data.xml
+D:\Program Taixin\6.LiveSystem\Login2\Login\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\MainWindow.baml
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\UploadVersion.baml
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.g.resources
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Program Taixin\6.LiveSystem\Login2\Login\obj\Debug\Login.csproj.CopyComplete
+G:\My Drive\6.LiveSystem\Login\Login\bin\Debug\Login.exe.config
+G:\My Drive\6.LiveSystem\Login\Login\bin\Debug\Login.exe
+G:\My Drive\6.LiveSystem\Login\Login\bin\Debug\Login.pdb
+G:\My Drive\6.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.dll
+G:\My Drive\6.LiveSystem\Login\Login\bin\Debug\MySql.Data.xml
+G:\My Drive\6.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.xml
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\MainWindow.g.cs
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\UploadVersion.g.cs
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\App.g.cs
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.cache
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.lref
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\MainWindow.baml
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\UploadVersion.baml
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.g.resources
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.Properties.Resources.resources
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.CopyComplete
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.exe
+G:\My Drive\6.LiveSystem\Login\Login\obj\Debug\Login.pdb
+D:\Taixin Sync\6.LiveSystem\Login\Login\bin\Debug\Login.exe.config
+D:\Taixin Sync\6.LiveSystem\Login\Login\bin\Debug\Login.exe
+D:\Taixin Sync\6.LiveSystem\Login\Login\bin\Debug\Login.pdb
+D:\Taixin Sync\6.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\Taixin Sync\6.LiveSystem\Login\Login\bin\Debug\MySql.Data.xml
+D:\Taixin Sync\6.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\MainWindow.g.cs
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\UploadVersion.g.cs
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\App.g.cs
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\MainWindow.baml
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\UploadVersion.baml
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.g.resources
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.exe
+D:\Taixin Sync\6.LiveSystem\Login\Login\obj\Debug\Login.pdb
+D:\C#\4.LiveSystem\Login\Login\bin\Debug\Login.exe.config
+D:\C#\4.LiveSystem\Login\Login\bin\Debug\Login.exe
+D:\C#\4.LiveSystem\Login\Login\bin\Debug\Login.pdb
+D:\C#\4.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\C#\4.LiveSystem\Login\Login\bin\Debug\MySql.Data.xml
+D:\C#\4.LiveSystem\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\MainWindow.g.cs
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\App.g.cs
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\MainWindow.baml
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.g.resources
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.exe
+D:\C#\4.LiveSystem\Login\Login\obj\Debug\Login.pdb
+D:\New folder\5.Login\Login\bin\Debug\Login.exe.config
+D:\New folder\5.Login\Login\bin\Debug\Login.exe
+D:\New folder\5.Login\Login\bin\Debug\Login.pdb
+D:\New folder\5.Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\5.Login\Login\bin\Debug\MySql.Data.xml
+D:\New folder\5.Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\5.Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\New folder\5.Login\Login\obj\Debug\MainWindow.g.cs
+D:\New folder\5.Login\Login\obj\Debug\App.g.cs
+D:\New folder\5.Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\New folder\5.Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\New folder\5.Login\Login\obj\Debug\MainWindow.baml
+D:\New folder\5.Login\Login\obj\Debug\Login.g.resources
+D:\New folder\5.Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\New folder\5.Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\New folder\5.Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\New folder\5.Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\New folder\5.Login\Login\obj\Debug\Login.exe
+D:\New folder\5.Login\Login\obj\Debug\Login.pdb
+D:\New folder\5.Login_All\Login\bin\Debug\Login.exe.config
+D:\New folder\5.Login_All\Login\bin\Debug\Login.exe
+D:\New folder\5.Login_All\Login\bin\Debug\Login.pdb
+D:\New folder\5.Login_All\Login\bin\Debug\Newtonsoft.Json.dll
+D:\New folder\5.Login_All\Login\bin\Debug\MySql.Data.xml
+D:\New folder\5.Login_All\Login\bin\Debug\Newtonsoft.Json.xml
+D:\New folder\5.Login_All\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\New folder\5.Login_All\Login\obj\Debug\MainWindow.g.cs
+D:\New folder\5.Login_All\Login\obj\Debug\App.g.cs
+D:\New folder\5.Login_All\Login\obj\Debug\Login_MarkupCompile.cache
+D:\New folder\5.Login_All\Login\obj\Debug\Login_MarkupCompile.lref
+D:\New folder\5.Login_All\Login\obj\Debug\MainWindow.baml
+D:\New folder\5.Login_All\Login\obj\Debug\Login.g.resources
+D:\New folder\5.Login_All\Login\obj\Debug\Login.Properties.Resources.resources
+D:\New folder\5.Login_All\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\New folder\5.Login_All\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\New folder\5.Login_All\Login\obj\Debug\Login.csproj.CopyComplete
+D:\New folder\5.Login_All\Login\obj\Debug\Login.exe
+D:\New folder\5.Login_All\Login\obj\Debug\Login.pdb
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.csproj.AssemblyReference.cache
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\MainWindow.g.cs
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\App.g.cs
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login_MarkupCompile.cache
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login_MarkupCompile.lref
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\MainWindow.baml
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.g.resources
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.pdb
+D:\C#\8.OperaSystem\Login\Login\bin\Debug\Login.exe.config
+D:\C#\8.OperaSystem\Login\Login\bin\Debug\Login.exe
+D:\C#\8.OperaSystem\Login\Login\bin\Debug\Login.pdb
+D:\C#\8.OperaSystem\Login\Login\bin\Debug\Newtonsoft.Json.dll
+D:\C#\8.OperaSystem\Login\Login\bin\Debug\MySql.Data.xml
+D:\C#\8.OperaSystem\Login\Login\bin\Debug\Newtonsoft.Json.xml
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.Properties.Resources.resources
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.csproj.CopyComplete
+D:\C#\8.OperaSystem\Login\Login\obj\Debug\Login.exe

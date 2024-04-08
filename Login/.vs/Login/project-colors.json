@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0ab15406-fb82-45c0-bd46-bc8f660705ba": {
+      "ProjectGuid": "0ab15406-fb82-45c0-bd46-bc8f660705ba",
+      "DisplayName": "Login",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

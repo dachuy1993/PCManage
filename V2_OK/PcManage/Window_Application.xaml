@@ -1,0 +1,296 @@
+﻿<Window x:Class="PcManage.Window_Application"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PcManage"
+        mc:Ignorable="d"
+        Title="Applicaton" Height="650" Width="1000" WindowStartupLocation="CenterScreen" WindowState="Maximized">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="StyleResourceDictionary.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Left">
+                <GroupBox Header="Search" Margin="5,0">
+                    <StackPanel Orientation="Horizontal">
+                        <Label Content="Application " VerticalContentAlignment="Center"></Label>
+                        <TextBox x:Name="txtFilterInfo" Height="30" Width="200" Margin="5,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" KeyDown="txtFilterInfo_KeyDown"></TextBox>
+                        <Button x:Name="btnSearch" Click="btnSearch_Click" Margin="5,0" Width="80" Height="30" HorizontalAlignment="Left" VerticalContentAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/Edit/search.png" Width="22" Height="22"></Image>
+                                <Label Content="Search" Margin="5,0" FontWeight="Bold"></Label>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </GroupBox>
+                
+                <!--<ComboBox Width="150" Name="cbb_Depatment" Height="30" SelectedIndex="0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Margin="5,0"></ComboBox>-->
+                <GroupBox Header="Check" Margin="5,0">
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="btnFilterInfo" Click="btnFilterInfo_Click" Margin="5,0" Width="80" Height="30" HorizontalAlignment="Left" VerticalContentAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/Edit/shield-icon.png" Width="22" Height="22"></Image>
+                                <Label Content="All" Margin="5,0" FontWeight="Bold"></Label>
+                            </StackPanel>
+                        </Button>
+                        <Button x:Name="btnFilter_OK" Click="btnFilter_OK_Click" Margin="5,0" Width="80" Height="30" HorizontalAlignment="Left" VerticalContentAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/Edit/shield-ok.png" Width="22" Height="22"></Image>
+                                <Label Content="Safe" Margin="5,0" FontWeight="Bold"></Label>
+                            </StackPanel>
+                        </Button>
+                        <Button x:Name="btnFilter_NG" Click="btnFilter_NG_Click" Margin="5,0" Width="80" Height="30" HorizontalAlignment="Left" VerticalContentAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/Edit/shield-error.png" Width="22" Height="22"></Image>
+                                <Label Content="Risk" Margin="5,0" FontWeight="Bold"></Label>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </GroupBox>
+                
+                <GroupBox Header="Control" Margin="5,0">
+                    <StackPanel Orientation="Horizontal">
+                        <Button x:Name="btnFilter_OK1" Click="btnFilter_OK1_Click" Margin="5,0" Width="80" Height="30" HorizontalAlignment="Left" VerticalContentAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/Edit/shield-ok.png" Width="22" Height="22"></Image>
+                                <Label Content="Safe+" Margin="5,0" FontWeight="Bold"></Label>
+                            </StackPanel>
+                        </Button>
+                        <Button x:Name="btnFilter_NG1" Click="btnFilter_NG1_Click" Margin="5,0" Width="80" Height="30" HorizontalAlignment="Left" VerticalContentAlignment="Center">
+                            <StackPanel Orientation="Horizontal">
+                                <Image Source="Image/Edit/shield-error.png" Width="22" Height="22"></Image>
+                                <Label Content="Risk+" Margin="5,0" FontWeight="Bold"></Label>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                </GroupBox>
+            </StackPanel>
+        </Grid>
+        <StackPanel Grid.Row="1" Orientation="Horizontal">
+            <Label VerticalContentAlignment="Center">Qty App :</Label>
+            <Label Name="lbQtyApp" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14"></Label>
+           
+           
+        </StackPanel>
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="350"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0">
+                <ListView x:Name="lvPer" ItemContainerStyle="{StaticResource styleConvertColorRowListView}" Margin="2" SelectionChanged="lvPer_SelectionChanged">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Full Name" Width="200">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="190" Text="{Binding fullName,Mode=OneWay}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Depatment" Width="100">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="70" Text="{Binding depatment,Mode=OneWay}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>                           
+                        </GridView>
+                    </ListView.View>
+                </ListView>                
+            </Grid>
+            <Grid Grid.Column="1">
+                <ListView x:Name="lvApplication" ItemContainerStyle="{StaticResource styleConvertColorRowListView}" Margin="2" SelectionChanged="lvApplication_SelectionChanged">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Name" Width="400">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="390" Text="{Binding DisplayName,Mode=OneWay}">                                           
+                                        </TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Version" Width="150">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="140" Text="{Binding Version,Mode=OneWay}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Installed Date" Width="100">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="90" Text="{Binding InstalledDate,Mode=OneWay}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Publisher" Width="300">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="290" Text="{Binding Publisher,Mode=OneWay}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                            <GridViewColumn Header="Check" Width="100">
+                                <GridViewColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <TextBlock Width="290" Text="{Binding pcno,Mode=OneWay}"></TextBlock>
+                                    </DataTemplate>
+                                </GridViewColumn.CellTemplate>
+                            </GridViewColumn>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </Grid>
+        </Grid>
+        <!--<Grid Grid.Row="2" Margin="2">
+            <ListView x:Name="lvListIP" ItemContainerStyle="{StaticResource styleConvertColorRowListView}" Margin="2" SelectionChanged="lvListIP_SelectionChanged">
+
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="IP Address" Width="120">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="110" Text="{Binding ipAddress,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Depatment" Width="80">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="70" Text="{Binding depatment,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="ID Number" Width="80">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="70" Text="{Binding idNumber,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Full Name" Width="200">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="190" Text="{Binding fullName,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="PC Name" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding pcName,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn  Header="Bios Serial" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding biosSerial,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Main Serial" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding mainSerial,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                        <GridViewColumn Header="Mac Address" Width="120">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="110" Text="{Binding macAddress,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="CPU Serial" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding cpuSerial,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="RAM Total(Gb)" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="90" Text="{Binding ramTotal,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="RAM Work(Mb)" Width="100">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="90" Text="{Binding ramWorking,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="HDD 1 Model" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding hdd1Model,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="HDD 1 Serial" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding hdd1Serial,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="HDD 2 Model" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding hdd2Model,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="HDD 2 Serial" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding hdd2Serial,Mode=OneWay}"></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Monitor No" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding monitorNo,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Monitor Model" Width="150">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBlock Width="140" Text="{Binding monitorModel,Mode=OneWay}" ></TextBlock>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>-->
+        <Grid Grid.Row="3">
+            <StackPanel Grid.Row="5" Orientation="Horizontal">
+                <Label Content="PC : "></Label>
+                <Label Name="numberPC" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="14" FontWeight="Bold"></Label>
+                <Label FontSize="10" VerticalContentAlignment="Bottom">EA</Label>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

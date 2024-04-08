@@ -1,0 +1,616 @@
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.07.28_Master\PcManage\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.02\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.03\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.05\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.06\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.07\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.09 Install all pc\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Sync\17.ComputerManager\2.Program\1.Base\2021.08.13 Install all pc\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.14\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.18 add update run\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.20\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.23\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.25\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.08.27_ChangeLayout\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.20\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.09.21\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2021.10.30\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Program Taixin\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.01.04\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.05\PcManage\PcManage\obj\Debug\PcManage.pdb
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\bin\Debug\PcManage.exe.config
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\bin\Debug\PcManage.exe
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\bin\Debug\PcManage.pdb
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\App.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\MainWindow.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\Window_Application.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.g.resources
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.exe
+D:\Taixin Sync\3.PcManage\2.Program\1.Base\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.pdb
+E:\Temp\PC\2022.08.26\PcManage\PcManage\bin\Debug\PcManage.exe.config
+E:\Temp\PC\2022.08.26\PcManage\PcManage\bin\Debug\PcManage.exe
+E:\Temp\PC\2022.08.26\PcManage\PcManage\bin\Debug\PcManage.pdb
+E:\Temp\PC\2022.08.26\PcManage\PcManage\bin\Debug\Newtonsoft.Json.dll
+E:\Temp\PC\2022.08.26\PcManage\PcManage\bin\Debug\Newtonsoft.Json.xml
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\MainWindow.g.cs
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\Window_Application.g.cs
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\Window_ListIP.g.cs
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\App.g.cs
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\MainWindow.baml
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\StyleResourceDictionary.baml
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\Window_Application.baml
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\Window_ListIP.baml
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.g.resources
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.exe
+E:\Temp\PC\2022.08.26\PcManage\PcManage\obj\Debug\PcManage.pdb
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\MainWindow.g.cs
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\Window_Application.g.cs
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\Window_ListIP.g.cs
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\App.g.cs
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.exe
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.pdb
+E:\Temp\V1\PC\Ini\PcManage\bin\Debug\PcManage.exe.config
+E:\Temp\V1\PC\Ini\PcManage\bin\Debug\PcManage.exe
+E:\Temp\V1\PC\Ini\PcManage\bin\Debug\PcManage.pdb
+E:\Temp\V1\PC\Ini\PcManage\bin\Debug\Newtonsoft.Json.dll
+E:\Temp\V1\PC\Ini\PcManage\bin\Debug\Newtonsoft.Json.xml
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\MainWindow.baml
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\StyleResourceDictionary.baml
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\Window_Application.baml
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\Window_ListIP.baml
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.g.resources
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+E:\Temp\V1\PC\Ini\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\bin\Debug\PcManage.exe.config
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\bin\Debug\PcManage.exe
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\bin\Debug\PcManage.pdb
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\MainWindow.g.cs
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\Window_Application.g.cs
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\Window_ListIP.g.cs
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\App.g.cs
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\MainWindow.baml
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\StyleResourceDictionary.baml
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\Window_Application.baml
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\Window_ListIP.baml
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.g.resources
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.exe
+C:\Users\HM\Desktop\New folder\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.pdb
+D:\C#\2.PcManage\V2_OK\PcManage\bin\Debug\PcManage.exe.config
+D:\C#\2.PcManage\V2_OK\PcManage\bin\Debug\PcManage.exe
+D:\C#\2.PcManage\V2_OK\PcManage\bin\Debug\PcManage.pdb
+D:\C#\2.PcManage\V2_OK\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\C#\2.PcManage\V2_OK\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\MainWindow.g.cs
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\Window_Application.g.cs
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\App.g.cs
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\MainWindow.baml
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\Window_Application.baml
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\Window_ListIP.baml
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.g.resources
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.exe
+D:\C#\2.PcManage\V2_OK\PcManage\obj\Debug\PcManage.pdb
+D:\C#\9.PcManageV2\V2_OK\PcManage\bin\Debug\PcManage.exe.config
+D:\C#\9.PcManageV2\V2_OK\PcManage\bin\Debug\PcManage.exe
+D:\C#\9.PcManageV2\V2_OK\PcManage\bin\Debug\PcManage.pdb
+D:\C#\9.PcManageV2\V2_OK\PcManage\bin\Debug\Newtonsoft.Json.dll
+D:\C#\9.PcManageV2\V2_OK\PcManage\bin\Debug\Newtonsoft.Json.xml
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.csproj.AssemblyReference.cache
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\MainWindow.g.cs
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\Window_Application.g.cs
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\Window_ListIP.g.cs
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\App.g.cs
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage_MarkupCompile.cache
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage_MarkupCompile.lref
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\MainWindow.baml
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\StyleResourceDictionary.baml
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\Window_Application.baml
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\Window_ListIP.baml
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.g.resources
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.Properties.Resources.resources
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.csproj.GenerateResource.cache
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.csproj.CoreCompileInputs.cache
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.csproj.CopyComplete
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.exe
+D:\C#\9.PcManageV2\V2_OK\PcManage\obj\Debug\PcManage.pdb

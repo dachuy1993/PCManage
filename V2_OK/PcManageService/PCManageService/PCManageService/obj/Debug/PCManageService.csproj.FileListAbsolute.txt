@@ -1,0 +1,17 @@
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\PCManageService.exe.config
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\PCManageService.exe
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\PCManageService.pdb
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\Newtonsoft.Json.dll
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\System.CodeDom.dll
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\System.Data.SqlClient.dll
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\Newtonsoft.Json.xml
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\System.CodeDom.xml
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\bin\Debug\System.Data.SqlClient.xml
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.csproj.AssemblyReference.cache
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.csproj.SuggestedBindingRedirects.cache
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.ProjectInstaller.resources
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.csproj.GenerateResource.cache
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.csproj.CoreCompileInputs.cache
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.csproj.CopyComplete
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.exe
+D:\C#\9.PcManageV2\V2_OK\PcManageService\PCManageService\PCManageService\obj\Debug\PCManageService.pdb
