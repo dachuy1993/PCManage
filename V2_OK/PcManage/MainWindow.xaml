@@ -15,91 +15,29 @@
     </Window.Resources>
     <Grid Background="White">
         <Grid.RowDefinitions>
-            <RowDefinition Height="100"/>
             <RowDefinition Height="40"/>
             <RowDefinition Height="100"/>
             <RowDefinition Height="5"/>
             <RowDefinition/>
             <RowDefinition Height="30"/>
         </Grid.RowDefinitions>
-        <Grid Background="LightGray">
+        <!--<Grid Background="LightGray">
             <Grid.ColumnDefinitions>
                 <ColumnDefinition/>
                 <ColumnDefinition Width="100"/>
             </Grid.ColumnDefinitions>
-            <StackPanel Orientation="Horizontal">
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="40,10,15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\Home.png" Width="90" Height="50"></Image>
-                            <Label Content="Menu" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\HR.png" Width="90" Height="50"></Image>
-                            <Label Content="HR" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\Acc.png" Width="90" Height="50"></Image>
-                            <Label Content="ACC" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\Pro.png" Width="90" Height="50"></Image>
-                            <Label Content="PRO" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\QC.png" Width="90" Height="50"></Image>
-                            <Label Content="QC" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\Equiment.png" Width="90" Height="50"></Image>
-                            <Label Content="TECH" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\IT.png" Width="90" Height="50"></Image>
-                            <Label Content="IT" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-                <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="15,10">
-                    <Button Background="DarkGray">
-                        <StackPanel Orientation="Vertical">
-                            <Image Source="Image\Dep\Setting.png" Width="90" Height="50"></Image>
-                            <Label Content="SETTING" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" FontSize="12" FontWeight="Bold"></Label>
-                        </StackPanel>
-                    </Button>
-                </StackPanel>
-            </StackPanel>
+            
             <Grid Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Bottom">
                 <Label Name="lbVersion" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
             </Grid>           
-        </Grid>       
+        </Grid>-->       
        
-        <Grid Margin="7,0" Grid.Row="1">
-            <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Left">
+        <Grid Margin="7,0" Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="9*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Left" Grid.Column="0">
                 <ListView Name="lvButtonTop" Style="{StaticResource styleListViewHorizontal}" Margin="2">
                     <ListView.ItemTemplate>
                         <DataTemplate>
@@ -159,10 +97,12 @@
                     </StackPanel>
                 </Button>-->
             </StackPanel>
-
+            <Grid Grid.Column="1" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+                <Label Name="lbVersion" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"></Label>
+            </Grid>
         </Grid>
         
-        <Grid Grid.Row="2">           
+        <Grid Grid.Row="1">           
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="680"/>
                 <ColumnDefinition/>
@@ -233,10 +173,10 @@
             
         </Grid>
 
-        <Grid Grid.Row="3">           
+        <Grid Grid.Row="2">           
         </Grid>
        
-        <Grid Grid.Row="4" Margin="2">           
+        <Grid Grid.Row="3" Margin="2">           
             <ListView x:Name="lvPcManage" ItemContainerStyle="{StaticResource styleConvertColorRowListView}" Margin="2" SelectionChanged="lvPcManage_SelectionChanged">
 
                 <ListView.View>         
@@ -414,7 +354,7 @@
                 </ListView.View>
             </ListView>
         </Grid>
-        <StackPanel Grid.Row="5" Orientation="Horizontal">
+        <StackPanel Grid.Row="4" Orientation="Horizontal">
             <Label Content="PC : "></Label>
             <Label Name="numberPC" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="14" FontWeight="Bold"></Label>
             <Label FontSize="10" VerticalContentAlignment="Bottom">EA</Label>

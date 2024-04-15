@@ -35,7 +35,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Taixin_Logo.ico</ApplicationIcon>
+    <ApplicationIcon>cm.icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <StartupObject>Login.App</StartupObject>
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
@@ -117,12 +121,6 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="cm.icon.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="LiveSystem.ico" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Taixin_Logo.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -44,7 +44,7 @@ namespace Login
         string db_user = "sa";
         string db_pass = "oneuser1!";
         string nameApplication = "PC_Manage";
-        string nameFolderIni = "W_Opera";
+        string nameFolderIni = "PcManage";
         string nameFolderExe   = @"C:\TaixinProgram\PcManage\PcManage\";
         bool CheckRememberLogin = false;
         bool CheckShowPass = false;
@@ -122,7 +122,7 @@ namespace Login
                 using (SqlConnection conn = new SqlConnection(pathSql))
                 {
                     conn.Open();
-                    using (SqlCommand cmd = new SqlCommand("select top(1)* from FileUpdateV2 order by ID desc", conn))
+                    using (SqlCommand cmd = new SqlCommand("select top(1)* from FileUpdate order by ID desc", conn))
                     {
                         using (IDataReader dr = cmd.ExecuteReader())
                         {

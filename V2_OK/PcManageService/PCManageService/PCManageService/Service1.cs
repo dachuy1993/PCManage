@@ -28,11 +28,13 @@ namespace PCManageService
         public bool checkBiosSerial = false;
         string Check; 
         string SeqHis;
+        string Ver;
         string path_sql = "Data Source=192.168.2.5,1433;Initial Catalog=PC_Manage;Persist Security Info=True;User ID=sa;Password= oneuser1!";
         string command_AllData = "SELECT * FROM ComputerInfomation order by depatment asc,idNumber asc";
 
         public Service1()
         {
+            UpdateVer();
             InitializeComponent();
             Load_Read_UpdateNew();
             Process_CheckBiosPC();
@@ -41,11 +43,26 @@ namespace PCManageService
 
         protected override void OnStart(string[] args)
         {
+            UpdateVer();
             Load_Read_UpdateNew();
             Process_CheckBiosPC();
             ProcessUpdateInfo();
             Utilities.WriteLogError("Start " + PCInfomation.pcInfo.hdd1Serial + " " + PCInfomation.pcInfo.upddt);
             TimeStart();
+        }
+
+        public void UpdateVer()
+        {
+            using (SqlConnection conn = new SqlConnection(path_sql))
+            {
+                var commandcheck = "select * from TblCheckVer ";
+                var resultCheck = DataProvider.Instance.ExecuteScalar(commandcheck, new object[]
+                {
+                            
+                });
+                Ver = resultCheck.ToString();
+            }
+
         }
 
         public void TimeStart()
@@ -301,7 +318,7 @@ namespace PCManageService
                     }
 
                     //var command = "UPDATE ComputerInfomation SET idNumber =N'" + id1 + "',fullName=N'" + name1 + "',depatment=N'" + dep1 + "',idNumber2 =N'" + id2 + "',fullName2=N'" + name2 + "',depatment2=N'" + dep2 + "',ipAddress =N'" + txtFilterInfo.Text.Trim() + "',monitorNo =N'" + txtMonitorNo.Text.ToUpper() + "',monitorModel =N'" + txtMonitorModel.Text.ToUpper() + "',monitorNo2 =N'" + txtMonitorNo2.Text.ToUpper() + "',monitorModel2 =N'" + txtMonitorModel2.Text.ToUpper() + "',monitorNo3 =N'" + txtMonitorNo3.Text.ToUpper() + "',monitorModel3 =N'" + txtMonitorModel3.Text.ToUpper() + "' where hdd1Serial='" + pcClickItem.hdd1Serial + "'";
-                    var command = "UPDATE ComputerInfomation SET biosSerial =N'" + PCInfomation.pcInfo.biosSerial + "',mainSerial=N'" + PCInfomation.pcInfo.mainSerial + "',pcName=N'" + PCInfomation.pcInfo.pcName + "',ipAddress =N'" + PCInfomation.pcInfo.ipAddress + "',macAddress =N'" + PCInfomation.pcInfo.macAddress + "',hdd1Model =N'" + PCInfomation.pcInfo.hdd1Model + "',hdd1Serial =N'" + PCInfomation.pcInfo.hdd1Serial + "',hdd2Model =N'" + PCInfomation.pcInfo.hdd2Model + "',hdd2Serial =N'" + PCInfomation.pcInfo.hdd2Serial + "',ramTotal =N'" + PCInfomation.pcInfo.ramTotal + "',ramWorking = N'" + PCInfomation.pcInfo.ramWorking + "',cpuSerial = N'" + PCInfomation.pcInfo.cpuSerial + "',run =N'" + PCInfomation.pcInfo.run + "',diskTotal_C =N'" + PCInfomation.pcInfo.diskTotal_C + "',diskTotal_D =N'" + PCInfomation.pcInfo.diskTotal_D + "',diskTotal_E = N'" + PCInfomation.pcInfo.diskTotal_E + "',diskFree_C = N'" + PCInfomation.pcInfo.diskFree_C + "',diskFree_D = N'" + PCInfomation.pcInfo.diskFree_D + "',diskFree_E =N'" + PCInfomation.pcInfo.diskFree_E + "',monthUpdate =N'" + PCInfomation.pcInfo.monthUpdate + "',imsempcode =N'" + PCInfomation.pcInfo.imsempcode + "',insdt =N'" + PCInfomation.pcInfo.insdt + "',updempcode = N'" + PCInfomation.pcInfo.updempcode + "',upddt = N'" + PCInfomation.pcInfo.upddt + "' where hdd1Serial='" + PCInfomation.pcInfo.hdd1Serial + "'";
+                    var command = "UPDATE ComputerInfomation SET biosSerial =N'" + PCInfomation.pcInfo.biosSerial + "',mainSerial=N'" + PCInfomation.pcInfo.mainSerial + "',pcName=N'" + PCInfomation.pcInfo.pcName + "',ipAddress =N'" + PCInfomation.pcInfo.ipAddress + "',macAddress =N'" + PCInfomation.pcInfo.macAddress + "',hdd1Model =N'" + PCInfomation.pcInfo.hdd1Model + "',hdd1Serial =N'" + PCInfomation.pcInfo.hdd1Serial + "',hdd2Model =N'" + PCInfomation.pcInfo.hdd2Model + "',hdd2Serial =N'" + PCInfomation.pcInfo.hdd2Serial + "',ramTotal =N'" + PCInfomation.pcInfo.ramTotal + "',ramWorking = N'" + PCInfomation.pcInfo.ramWorking + "',cpuSerial = N'" + PCInfomation.pcInfo.cpuSerial + "',run =N'" + PCInfomation.pcInfo.run + "',diskTotal_C =N'" + PCInfomation.pcInfo.diskTotal_C + "',diskTotal_D =N'" + PCInfomation.pcInfo.diskTotal_D + "',diskTotal_E = N'" + PCInfomation.pcInfo.diskTotal_E + "',diskFree_C = N'" + PCInfomation.pcInfo.diskFree_C + "',diskFree_D = N'" + PCInfomation.pcInfo.diskFree_D + "',diskFree_E =N'" + PCInfomation.pcInfo.diskFree_E + "',monthUpdate =N'" + PCInfomation.pcInfo.monthUpdate + "',imsempcode =N'" + PCInfomation.pcInfo.imsempcode + "',insdt =N'" + PCInfomation.pcInfo.insdt + "',updempcode = N'" + PCInfomation.pcInfo.updempcode + "',upddt = N'" + PCInfomation.pcInfo.upddt + "',version = N'" + Ver +  "' where hdd1Serial='" + PCInfomation.pcInfo.hdd1Serial + "'";
                     using (SqlCommand cmd = new SqlCommand(command, conn))
                     {
                         cmd.ExecuteNonQuery();
@@ -327,13 +344,13 @@ namespace PCManageService
             {
                 conn.Open();
                 var command = "Insert  ComputerInfomation(cmpcode,bizdiv,pcno,biosSerial,mainSerial,pcName,ipAddress,macAddress,hdd1Model,hdd1Serial,hdd2Model,hdd2Serial,ramTotal,ramWorking,cpuSerial,idNumber,fullName,depatment,run,diskTotal_C,diskTotal_D,diskTotal_E,diskFree_C,diskFree_D,diskFree_E,monitorNo,monitorModel,version,monitorNo2,monitorModel2,monitorNo3,monitorModel3,idNumber2,fullName2,depatment2,monthUpdate,imsempcode,insdt,updempcode,upddt) " +
-                    "Values(N'" + PCInfomation.pcInfo.cmpcode + "',N'" + PCInfomation.pcInfo.bizdiv + "',N'" + PCInfomation.pcInfo.pcno + "',N'" + PCInfomation.pcInfo.biosSerial + "',N'" + PCInfomation.pcInfo.mainSerial + "',N'" + PCInfomation.pcInfo.pcName + "',N'" + PCInfomation.pcInfo.ipAddress + "',N'" + PCInfomation.pcInfo.macAddress + "',N'" + PCInfomation.pcInfo.hdd1Model + "',N'" + PCInfomation.pcInfo.hdd1Serial + "',N'" + PCInfomation.pcInfo.hdd2Model + "',N'" + PCInfomation.pcInfo.hdd2Serial + "',N'" + PCInfomation.pcInfo.ramTotal + "',N'" + PCInfomation.pcInfo.ramWorking + "',N'" + PCInfomation.pcInfo.cpuSerial + "',N'" + PCInfomation.pcInfo.idNumber + "',N'" + PCInfomation.pcInfo.fullName + "',N'" + PCInfomation.pcInfo.depatment + "',N'" + PCInfomation.pcInfo.run + "',N'" + PCInfomation.pcInfo.diskTotal_C + "',N'" + PCInfomation.pcInfo.diskTotal_D + "',N'" + PCInfomation.pcInfo.diskTotal_E + "',N'" + PCInfomation.pcInfo.diskFree_C + "',N'" + PCInfomation.pcInfo.diskFree_D + "',N'" + PCInfomation.pcInfo.diskFree_E + "',N'" + PCInfomation.pcInfo.monitorNo + "',N'" + PCInfomation.pcInfo.monitorModel + "',N'" + PCInfomation.pcInfo.version + "',N'" + PCInfomation.pcInfo.monitorNo2 + "',N'" + PCInfomation.pcInfo.monitorModel2 + "',N'" + PCInfomation.pcInfo.monitorNo3 + "',N'" + PCInfomation.pcInfo.monitorModel3 + "',N'" + PCInfomation.pcInfo.idNumber2 + "',N'" + PCInfomation.pcInfo.fullName2 + "',N'" + PCInfomation.pcInfo.depatment2 + "',N'" + PCInfomation.pcInfo.monthUpdate + "',N'" + PCInfomation.pcInfo.imsempcode + "',N'" + PCInfomation.pcInfo.insdt + "',N'" + PCInfomation.pcInfo.updempcode + "',N'" + PCInfomation.pcInfo.upddt + "')";
+                    "Values(N'" + PCInfomation.pcInfo.cmpcode + "',N'" + PCInfomation.pcInfo.bizdiv + "',N'" + PCInfomation.pcInfo.pcno + "',N'" + PCInfomation.pcInfo.biosSerial + "',N'" + PCInfomation.pcInfo.mainSerial + "',N'" + PCInfomation.pcInfo.pcName + "',N'" + PCInfomation.pcInfo.ipAddress + "',N'" + PCInfomation.pcInfo.macAddress + "',N'" + PCInfomation.pcInfo.hdd1Model + "',N'" + PCInfomation.pcInfo.hdd1Serial + "',N'" + PCInfomation.pcInfo.hdd2Model + "',N'" + PCInfomation.pcInfo.hdd2Serial + "',N'" + PCInfomation.pcInfo.ramTotal + "',N'" + PCInfomation.pcInfo.ramWorking + "',N'" + PCInfomation.pcInfo.cpuSerial + "',N'" + PCInfomation.pcInfo.idNumber + "',N'" + PCInfomation.pcInfo.fullName + "',N'" + PCInfomation.pcInfo.depatment + "',N'" + PCInfomation.pcInfo.run + "',N'" + PCInfomation.pcInfo.diskTotal_C + "',N'" + PCInfomation.pcInfo.diskTotal_D + "',N'" + PCInfomation.pcInfo.diskTotal_E + "',N'" + PCInfomation.pcInfo.diskFree_C + "',N'" + PCInfomation.pcInfo.diskFree_D + "',N'" + PCInfomation.pcInfo.diskFree_E + "',N'" + PCInfomation.pcInfo.monitorNo + "',N'" + PCInfomation.pcInfo.monitorModel + "',N'" + Ver + "',N'" + PCInfomation.pcInfo.monitorNo2 + "',N'" + PCInfomation.pcInfo.monitorModel2 + "',N'" + PCInfomation.pcInfo.monitorNo3 + "',N'" + PCInfomation.pcInfo.monitorModel3 + "',N'" + PCInfomation.pcInfo.idNumber2 + "',N'" + PCInfomation.pcInfo.fullName2 + "',N'" + PCInfomation.pcInfo.depatment2 + "',N'" + PCInfomation.pcInfo.monthUpdate + "',N'" + PCInfomation.pcInfo.imsempcode + "',N'" + PCInfomation.pcInfo.insdt + "',N'" + PCInfomation.pcInfo.updempcode + "',N'" + PCInfomation.pcInfo.upddt + "')";
                 using (SqlCommand cmd = new SqlCommand(command, conn))
                 {
                     cmd.ExecuteNonQuery();
                 }
                 var command1 = "Insert  ComputerInfomation_Backup(cmpcode,bizdiv,pcno,biosSerial,mainSerial,pcName,ipAddress,macAddress,hdd1Model,hdd1Serial,hdd2Model,hdd2Serial,ramTotal,ramWorking,cpuSerial,idNumber,fullName,depatment,run,diskTotal_C,diskTotal_D,diskTotal_E,diskFree_C,diskFree_D,diskFree_E,monitorNo,monitorModel,version,monitorNo2,monitorModel2,monitorNo3,monitorModel3,idNumber2,fullName2,depatment2,monthUpdate,imsempcode,insdt,updempcode,upddt) " +
-                    "Values(N'" + PCInfomation.pcInfo.cmpcode + "',N'" + PCInfomation.pcInfo.bizdiv + "',N'" + PCInfomation.pcInfo.pcno + "',N'" + PCInfomation.pcInfo.biosSerial + "',N'" + PCInfomation.pcInfo.mainSerial + "',N'" + PCInfomation.pcInfo.pcName + "',N'" + PCInfomation.pcInfo.ipAddress + "',N'" + PCInfomation.pcInfo.macAddress + "',N'" + PCInfomation.pcInfo.hdd1Model + "',N'" + PCInfomation.pcInfo.hdd1Serial + "',N'" + PCInfomation.pcInfo.hdd2Model + "',N'" + PCInfomation.pcInfo.hdd2Serial + "',N'" + PCInfomation.pcInfo.ramTotal + "',N'" + PCInfomation.pcInfo.ramWorking + "',N'" + PCInfomation.pcInfo.cpuSerial + "',N'" + PCInfomation.pcInfo.idNumber + "',N'" + PCInfomation.pcInfo.fullName + "',N'" + PCInfomation.pcInfo.depatment + "',N'" + PCInfomation.pcInfo.run + "',N'" + PCInfomation.pcInfo.diskTotal_C + "',N'" + PCInfomation.pcInfo.diskTotal_D + "',N'" + PCInfomation.pcInfo.diskTotal_E + "',N'" + PCInfomation.pcInfo.diskFree_C + "',N'" + PCInfomation.pcInfo.diskFree_D + "',N'" + PCInfomation.pcInfo.diskFree_E + "',N'" + PCInfomation.pcInfo.monitorNo + "',N'" + PCInfomation.pcInfo.monitorModel + "',N'" + PCInfomation.pcInfo.version + "',N'" + PCInfomation.pcInfo.monitorNo2 + "',N'" + PCInfomation.pcInfo.monitorModel2 + "',N'" + PCInfomation.pcInfo.monitorNo3 + "',N'" + PCInfomation.pcInfo.monitorModel3 + "',N'" + PCInfomation.pcInfo.idNumber2 + "',N'" + PCInfomation.pcInfo.fullName2 + "',N'" + PCInfomation.pcInfo.depatment2 + "',N'" + PCInfomation.pcInfo.monthUpdate + "',N'" + PCInfomation.pcInfo.imsempcode + "',N'" + PCInfomation.pcInfo.insdt + "',N'" + PCInfomation.pcInfo.updempcode + "',N'" + PCInfomation.pcInfo.upddt + "')";
+                    "Values(N'" + PCInfomation.pcInfo.cmpcode + "',N'" + PCInfomation.pcInfo.bizdiv + "',N'" + PCInfomation.pcInfo.pcno + "',N'" + PCInfomation.pcInfo.biosSerial + "',N'" + PCInfomation.pcInfo.mainSerial + "',N'" + PCInfomation.pcInfo.pcName + "',N'" + PCInfomation.pcInfo.ipAddress + "',N'" + PCInfomation.pcInfo.macAddress + "',N'" + PCInfomation.pcInfo.hdd1Model + "',N'" + PCInfomation.pcInfo.hdd1Serial + "',N'" + PCInfomation.pcInfo.hdd2Model + "',N'" + PCInfomation.pcInfo.hdd2Serial + "',N'" + PCInfomation.pcInfo.ramTotal + "',N'" + PCInfomation.pcInfo.ramWorking + "',N'" + PCInfomation.pcInfo.cpuSerial + "',N'" + PCInfomation.pcInfo.idNumber + "',N'" + PCInfomation.pcInfo.fullName + "',N'" + PCInfomation.pcInfo.depatment + "',N'" + PCInfomation.pcInfo.run + "',N'" + PCInfomation.pcInfo.diskTotal_C + "',N'" + PCInfomation.pcInfo.diskTotal_D + "',N'" + PCInfomation.pcInfo.diskTotal_E + "',N'" + PCInfomation.pcInfo.diskFree_C + "',N'" + PCInfomation.pcInfo.diskFree_D + "',N'" + PCInfomation.pcInfo.diskFree_E + "',N'" + PCInfomation.pcInfo.monitorNo + "',N'" + PCInfomation.pcInfo.monitorModel + "',N'" + Ver + "',N'" + PCInfomation.pcInfo.monitorNo2 + "',N'" + PCInfomation.pcInfo.monitorModel2 + "',N'" + PCInfomation.pcInfo.monitorNo3 + "',N'" + PCInfomation.pcInfo.monitorModel3 + "',N'" + PCInfomation.pcInfo.idNumber2 + "',N'" + PCInfomation.pcInfo.fullName2 + "',N'" + PCInfomation.pcInfo.depatment2 + "',N'" + PCInfomation.pcInfo.monthUpdate + "',N'" + PCInfomation.pcInfo.imsempcode + "',N'" + PCInfomation.pcInfo.insdt + "',N'" + PCInfomation.pcInfo.updempcode + "',N'" + PCInfomation.pcInfo.upddt + "')";
                 using (SqlCommand cmd = new SqlCommand(command1, conn))
                 {
                     cmd.ExecuteNonQuery();
@@ -522,7 +539,7 @@ namespace PCManageService
                                     pc_info.diskFree_E = dr[23].ToString();
                                     pc_info.monitorNo = dr[25].ToString();
                                     pc_info.monitorModel = dr[26].ToString();
-                                    pc_info.version = dr[27].ToString();
+                                    pc_info.version = Ver;
                                     pc_info.monitorNo2 = dr[28].ToString();
                                     pc_info.monitorModel2 = dr[29].ToString();
                                     pc_info.monitorNo3 = dr[30].ToString();
@@ -566,6 +583,8 @@ namespace PCManageService
 
             }
         }
+
+        
 
         protected override void OnStop()
         {

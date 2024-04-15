@@ -64,11 +64,26 @@ namespace PcManage
             CreatAllButtonEdit();          
             Load_Read_AllInfoPC();
             Process_CheckBiosPC();
+            UpdateVer();
             //OnStartUp();
 
 
 
         } 
+
+        public void UpdateVer()
+        {
+            using (SqlConnection conn = new SqlConnection(path_sql))
+            {
+                conn.Open();
+                var command = "UPDATE TblCheckVer set Ver = '" + Ver + "'";
+                using (SqlCommand cmd = new SqlCommand(command, conn))
+                {
+                    cmd.ExecuteNonQuery();
+                    conn.Close();
+                }
+            }
+        }
       
         public void Load_Read_AllInfoPC()
         {
